@@ -1,0 +1,6 @@
+{
+  "name": "Lidar",
+  "description": "An interactive 3D architectural reconstruction of the world built from 0.5m airborne LiDAR and archival HABS/NPS surveys. Explore the worlds most iconic spaces.\n",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
